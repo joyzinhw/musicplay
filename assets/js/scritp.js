@@ -22,6 +22,7 @@ var musica1 = document.getElementById("musica1");
             }
         }
 
+        
 var musica2 = document.getElementById("musica2");
         var icon = document.getElementById("musica02");
 
